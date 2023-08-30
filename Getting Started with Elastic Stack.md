@@ -412,7 +412,7 @@ Remember to enter your local IP address in elastic hosts.
 Kibana will be loaded after a while.
 Go to <localhost:5601> to see the dashboard
 
-![](../Pasted%20image%2020230830160327.png)
+![](images/Gettstart_images/kibana.png)
 
 ---
 
